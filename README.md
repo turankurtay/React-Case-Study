@@ -1,5 +1,3 @@
-Dökümanı doğru bir şekilde okuyabilmek için linke tıklayınız. https://github.com/mtztkt/React-Case-Study/blob/main/README.md
-
 # Görev
 
 Projede data.json isimli dosyada bir dizi bulunmaktadır.Bu dizi bir şirketin yazılım departmanına başvuran adayların ve case maillerinin gönderilme bilgilerini barındırmaktadır. Property anlamları şu şekildedir;
