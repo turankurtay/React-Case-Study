@@ -1,4 +1,4 @@
-Dökümanı doğru bir şekilde okuyabilmek için linke tıklayınız. https://github.com/mtztkt/React-Case/blob/main/README.md
+Dökümanı doğru bir şekilde okuyabilmek için linke tıklayınız. https://github.com/mtztkt/React-Case-Study/blob/main/README.md
 
 # Görev
 
